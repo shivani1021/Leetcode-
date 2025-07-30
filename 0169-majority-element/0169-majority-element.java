@@ -4,12 +4,11 @@ class Solution{
        int cand =0;
 
         for(int i = 0; i < nums.length; i++){
-            if(count==0 ){
-               cand = nums[i];   
+            if(count==0 || cand == nums[i] ){
+               cand = nums[i]; 
+               count ++;  
             }
-            if(cand == nums[i]){
-                count ++;
-            }
+            
             else{
                 count--;
             }
