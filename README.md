@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivani1021/Leetcode-/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivani1021/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivani1021/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shivani1021/Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivani1021/Leetcode-/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shivani1021/Leetcode-/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivani1021/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
