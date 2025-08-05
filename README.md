@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shivani1021/Leetcode-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shivani1021/Leetcode-/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
