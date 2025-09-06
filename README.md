@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivani1021/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/shivani1021/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shivani1021/Leetcode-/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
@@ -49,4 +50,8 @@
 | ------- |
 | [0055-jump-game](https://github.com/shivani1021/Leetcode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivani1021/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shivani1021/Leetcode-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
