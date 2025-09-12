@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivani1021/Leetcode-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shivani1021/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shivani1021/Leetcode-/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivani1021/Leetcode-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shivani1021/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shivani1021/Leetcode-/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -57,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivani1021/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shivani1021/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivani1021/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shivani1021/Leetcode-/tree/master/0058-length-of-last-word) |
