@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/shivani1021/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/shivani1021/Leetcode-/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivani1021/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/shivani1021/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivani1021/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivani1021/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/shivani1021/Leetcode-/tree/master/0169-majority-element) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivani1021/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivani1021/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/shivani1021/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivani1021/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shivani1021/Leetcode-/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/shivani1021/Leetcode-/tree/master/0392-is-subsequence) |
@@ -33,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shivani1021/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivani1021/Leetcode-/tree/master/0169-majority-element) |
 ## Counting
 |  |
