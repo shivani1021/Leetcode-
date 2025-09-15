@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/shivani1021/Leetcode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shivani1021/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shivani1021/Leetcode-/tree/master/0169-majority-element) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/shivani1021/Leetcode-/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0058-length-of-last-word](https://github.com/shivani1021/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shivani1021/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/shivani1021/Leetcode-/tree/master/0392-is-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/shivani1021/Leetcode-/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String Matching
 |  |
 | ------- |
